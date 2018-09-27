@@ -9,7 +9,7 @@ The site consists of 5 pages: "Home", "Bio", "Resume", "Exercises" and "Contact"
 
 
 ### Screenshots
-<p align="center"><img src=""></p>
+<p align="center"><img src="https://github.com/danilonocella/personalfitness/blob/master/screenshot.gif"></p>
 
 
 ### Tools, languages and frameworks used
