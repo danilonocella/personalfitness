@@ -1,0 +1,191 @@
+.header-color{
+  background: none!important; 
+}
+
+body{
+  background:#BAFFDF;
+}
+
+p {
+  font-family: 'Cabin', sans-serif;
+  font-size: 16px;
+}
+
+a {
+  text-decoration: none;
+  color: #27221F;
+}
+
+footer .footer-copyright {
+  background: #9DC0BC;
+  float: left;
+  position: relative;
+  width: 100%;
+  padding: 30px 30px;
+  margin-top: 4em;
+  text-align: center;
+  font-weight: 400;
+  font-size: 10px;
+  border-top: 1px solid #9DC0BC;
+}
+
+/* DRAWER */
+.mdl-layout__drawer.is-visible {
+  background: #ffffff!important;
+}
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link {
+  color: #000000!important;
+  font-size: 20px;
+}
+
+.mdl-layout__drawer .mdl-navigation .mdl-navigation__link:hover {
+  background-color: #9DC0BC!important;
+  color: #ffffff!important;
+}
+
+.material-icons {
+  color: #27221F;
+  border-radius: 5px;
+  border-style: solid;
+  border-width: 2px;
+  padding: 2px;
+}
+.mdl-tabs.is-upgraded .mdl-tabs__tab.is-active:after, .mdl-tabs__tab.is-active:after {
+  background: #9DC0BC!important;
+}
+
+.mdl-tabs__tab {
+  color: #27221F!important;
+  font-size: 18px!important;
+  
+}
+
+.mdl-card__title-text {
+  font-size: 20px;
+}
+
+.mdl-button.mdl-button--colored {
+    color: #000000!important;
+    font-weight: bold;
+}
+
+
+/* HOME */
+.home-grid{
+  text-align: center;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.avatar-img{
+  height: 250px;
+}
+
+.banner-text{
+  background-color: #27221F;
+  width: 75%;
+  margin: auto;
+  padding: 2em;
+  border-radius: 10px;
+}
+.banner-text h1{
+  font-size: 46px;
+  color: #ffffff;
+}
+.banner-text hr{
+  border-top: 5px dotted #ffffff;
+  width: 50%;
+  margin: auto;
+}
+.banner-text p{
+  color: white;
+  font-size: 22px;
+  padding: 1em;
+}
+
+.social-links {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+.social-links i {
+  color: white;
+  font-size: 2em;
+  padding: 8px;
+}
+.social-links i:hover {
+  color: #9DC0BC;
+
+}
+
+
+
+/* BIO */
+.bio-text{
+  color: #ffffff;
+  background: #27221F;
+  width: 75%;
+  margin: 8px auto;
+  padding: 2em; 
+  border-radius: 10px;
+}
+
+
+
+
+
+/* RESUME */
+.resume-left-col{
+  background: #ffffff;
+  color: #000000;
+  padding: 2em;
+  border-radius: 10px;
+}
+.resume-right-col{
+  background: #27221F;
+  color: #ffffff;
+  padding: 2em;
+  border-radius: 10px;
+}
+
+
+
+/* EXERCISES */
+.exercises-grid {
+  display: grid;
+}
+
+
+
+
+/* CONTACT */
+.contact-body {
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+}
+
+.contact-grid{
+  text-align: center;
+  justify-content: center;  
+  width: 80%;
+  background: #ffffff;
+  color: #000000;  
+  border-radius: 10px;
+}
+
+.contact-grid hr {  
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 45px;
+  padding-right: 4rem;
+}
