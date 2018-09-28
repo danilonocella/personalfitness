@@ -1,6 +1,6 @@
 # personalfitness.com
 
-personalfitness.com is a prototype in the form of a personal-website built in React and implementing the React-MDL library for it's frontend.
+personalfitness.com is a prototype in the form of a personal-website built in React and implementing the React-MDL library for its frontend.
 
 
 ## Description
